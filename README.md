@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/jeongyeon-park/leetcode/tree/master/0200-number-of-islands) |
 | [1039-find-the-town-judge](https://github.com/jeongyeon-park/leetcode/tree/master/1039-find-the-town-judge) |
 ## Hash Table
 |  |
@@ -36,4 +37,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/jeongyeon-park/leetcode/tree/master/1039-find-the-town-judge) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/jeongyeon-park/leetcode/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/jeongyeon-park/leetcode/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/jeongyeon-park/leetcode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/jeongyeon-park/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
