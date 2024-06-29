@@ -22,3 +22,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/jeongyeon-park/leetcode/tree/master/0257-binary-tree-paths) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/jeongyeon-park/leetcode/tree/master/1039-find-the-town-judge) |
+## Hash Table
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/jeongyeon-park/leetcode/tree/master/1039-find-the-town-judge) |
+## Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/jeongyeon-park/leetcode/tree/master/1039-find-the-town-judge) |
+<!---LeetCode Topics End-->
