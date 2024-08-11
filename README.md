@@ -66,4 +66,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/jeongyeon-park/leetcode/tree/master/0969-number-of-recent-calls) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/jeongyeon-park/leetcode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
