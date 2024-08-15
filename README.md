@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/jeongyeon-park/leetcode/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/jeongyeon-park/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/jeongyeon-park/leetcode/tree/master/0228-summary-ranges) |
 | [1039-find-the-town-judge](https://github.com/jeongyeon-park/leetcode/tree/master/1039-find-the-town-judge) |
 ## Hash Table
@@ -70,4 +71,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/jeongyeon-park/leetcode/tree/master/0058-length-of-last-word) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/jeongyeon-park/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/jeongyeon-park/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/jeongyeon-park/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
