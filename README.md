@@ -96,4 +96,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/jeongyeon-park/leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Database
+|  |
+| ------- |
+| [1523-capital-gainloss](https://github.com/jeongyeon-park/leetcode/tree/master/1523-capital-gainloss) |
 <!---LeetCode Topics End-->
