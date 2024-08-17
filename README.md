@@ -43,10 +43,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/jeongyeon-park/leetcode/tree/master/0200-number-of-islands) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/jeongyeon-park/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/jeongyeon-park/leetcode/tree/master/0200-number-of-islands) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/jeongyeon-park/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Union Find
 |  |
 | ------- |
@@ -92,12 +94,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/jeongyeon-park/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/jeongyeon-park/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/jeongyeon-park/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/jeongyeon-park/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Database
 |  |
 | ------- |
 | [1523-capital-gainloss](https://github.com/jeongyeon-park/leetcode/tree/master/1523-capital-gainloss) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/jeongyeon-park/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
