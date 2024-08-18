@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1523-capital-gainloss](https://github.com/jeongyeon-park/leetcode/tree/master/1523-capital-gainloss) |
+| [3530-odd-and-even-transactions](https://github.com/jeongyeon-park/leetcode/tree/master/3530-odd-and-even-transactions) |
 ## Binary Search Tree
 |  |
 | ------- |
