@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/jeongyeon-park/leetcode/tree/master/0027-remove-element) |
 | [0200-number-of-islands](https://github.com/jeongyeon-park/leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/jeongyeon-park/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/jeongyeon-park/leetcode/tree/master/0228-summary-ranges) |
@@ -123,4 +124,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jeongyeon-park/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/jeongyeon-park/leetcode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
