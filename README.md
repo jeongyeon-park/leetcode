@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jeongyeon-park/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/jeongyeon-park/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/jeongyeon-park/leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/jeongyeon-park/leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/jeongyeon-park/leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/jeongyeon-park/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/jeongyeon-park/leetcode/tree/master/0228-summary-ranges) |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/jeongyeon-park/leetcode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jeongyeon-park/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/jeongyeon-park/leetcode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/jeongyeon-park/leetcode/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
@@ -149,4 +151,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jeongyeon-park/leetcode/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/jeongyeon-park/leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
