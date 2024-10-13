@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jeongyeon-park/leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/jeongyeon-park/leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/jeongyeon-park/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/jeongyeon-park/leetcode/tree/master/0290-word-pattern) |
 | [1039-find-the-town-judge](https://github.com/jeongyeon-park/leetcode/tree/master/1039-find-the-town-judge) |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/jeongyeon-park/leetcode/tree/master/0058-length-of-last-word) |
+| [0205-isomorphic-strings](https://github.com/jeongyeon-park/leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/jeongyeon-park/leetcode/tree/master/0290-word-pattern) |
 ## Binary Search
 |  |
