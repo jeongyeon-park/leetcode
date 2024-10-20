@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/jeongyeon-park/leetcode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/jeongyeon-park/leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/jeongyeon-park/leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/jeongyeon-park/leetcode/tree/master/0290-word-pattern) |
 ## Binary Search
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/jeongyeon-park/leetcode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jeongyeon-park/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/jeongyeon-park/leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/jeongyeon-park/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/jeongyeon-park/leetcode/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
