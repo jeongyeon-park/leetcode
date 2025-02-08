@@ -4,7 +4,7 @@ public class Solution {
         int buy_price = prices[0];
         int profit = 0;
 
-        //Buying cheapest price and Selling expensive price is important.
+        // The key is to buy at the lowest price and sell at the highest price.
         foreach (int i in prices)
         {
             if(buy_price > i)
